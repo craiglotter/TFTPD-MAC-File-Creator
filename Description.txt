@@ -1,0 +1,15 @@
+TFTPD MAC File Creator
+
+TFTPD MAC File Creator is a simple application that reads a text file containing a list of MAC addresses and generates a number of text files that is required by the TFTPD server.
+
+Created by Craig Lotter, March 2007
+
+Note: Created for Commerce IT
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as threading, file read/write.
+Level of Complexity: Very Simple

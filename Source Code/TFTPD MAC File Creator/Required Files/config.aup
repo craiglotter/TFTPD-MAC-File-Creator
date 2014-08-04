@@ -1,0 +1,3 @@
+APPLICATION_NAME=TFTPD MAC File Creator
+EXECUTABLE=TFTPD MAC File Creator.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/TFTPD MAC File Creator/manifest.xml
